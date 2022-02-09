@@ -4,29 +4,29 @@
     "name": "Colored Box",
     "description": "A colored box",
     "newInstancePrefix": "ColoredBox",
-    "icon": "https://www.sample.com/customwidgets/coloredbox/icon.png",
+    "icon": "https://s7ux.github.io/sac_custom_widgets/coloredbox/icon.png",
     "vendor": "COCCOV",
     "eula": "",
     "license": "",
     "webcomponents": [
         {
             "kind": "main",
-            "tag": "com-sap-sample-coloredbox",
-            "url": "https://www.sample.com/customwidgets/coloredbox/coloredbox.js",
+            "tag": "com-coccov-coloredbox",
+            "url": "https://s7ux.github.io/sac_custom_widgets/coloredbox/coloredbox.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
-            "tag": "com-sap-sample-coloredbox-styling",
-            "url": "https://www.sample.com/customwidgets/coloredbox/coloredbox_styling.js",
+            "tag": "com-coccov-coloredbox-styling",
+            "url": "https://s7ux.github.io/sac_custom_widgets/coloredbox/coloredbox_styling.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
-            "tag": "com-sap-sample-coloredbox-builder",
-            "url": "https://www.sample.com/customwidgets/coloredbox/coloredbox_builder.js",
+            "tag": "com-coccov-coloredbox-builder",
+            "url": "https://s7ux.github.io/sac_custom_widgets/coloredbox/coloredbox_builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
